@@ -2,6 +2,9 @@
 ## Synopsis
 This is a real-time chat server that uses socket.io 
 
+## Live Demo
+https://intense-mesa-85495.herokuapp.com/
+enter your nickname then enter group name, you can share group name with anyone
 ## Prerequisites 
 You will need to have node.js and npm installed.
 
